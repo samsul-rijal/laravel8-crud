@@ -42,7 +42,7 @@
 					</div>
 				</div>
 				<div class="card-footer">
-					<button type="submit" class="btn btn-primary btn-blcok">Log In</button>
+					<button type="submit" class="btn btn-primary btn-block">Log In</button>
 					<p class="text-center">Belum punya akun? <a href="{{ route('register') }}">Register</a> sekarang!</p>
 				</div>
 			</form>

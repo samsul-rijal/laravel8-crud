@@ -17,7 +17,7 @@
         </li>
       </ul>
       <span class="navbar-text">
-        <a class="btn btn-danger" href="{{ route('logout') }}">Logout</a>
+        <a class="btn btn-danger btn-sm" href="{{ route('logout') }}">Logout</a>
       </span>
     </div>
   </div>
